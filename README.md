@@ -8,4 +8,5 @@ I'm currently working on:
   - [Ebbi's Site O' Fun!](https://ebbiisback.neocities.org)
 
 I have a few other projects, but those are *secrets*!
+I have a [really epic blog that you should ***TOTALLY*** check out!](https://ebbiisback.tumblr.com/)
 Want to get in touch with me? Send an email to ebbithegamer@gmail.com!
