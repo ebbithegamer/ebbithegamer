@@ -5,8 +5,8 @@ Who am I? Well, I'm just the average video game addict who just so happens to li
 
 ### Currently Working On:
 
-- **[Blue Blur and More](http://blueblurandmore.rf.gd/scripts/index_mockup.php):** A testing website to see what I can make using PHP, JS, etc.
 - **[Ebbi's Site O' Fun!](https://ebbiisback.neocities.org):** My personal website that has epik stuff!!
+...Not a lot, huh?
 
 I have a few other projects, but those are *secrets*!
 
