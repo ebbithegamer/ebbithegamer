@@ -5,7 +5,7 @@ Who am I? Well, I'm just the average video game addict who just so happens to li
 
 ### Currently Working On:
 
-- **[Ebbi's Site O' Fun!](https://ebbiisback.neocities.org):** My personal website that has epik stuff!!
+- **[Ebbi's Site O' Fun!](https://blueblurandmore.rf.gd/):** My personal website that has epik stuff!!
 
 ...Not a lot, huh?
 
@@ -17,4 +17,5 @@ I usually update my projects a few times every month. I'd like to start working 
 
 ### Contact Me (or stalk me, your choice):
 
-- [My Epic Blog](https://ebbiisback.tumblr.com/)
+- [My Epic Blog](https://ebbiisback.tumblr.com/) - DO NOT CONTACT FROM HERE, TO BE REPLACED.
+- [My Epic Forum](https://blueblurandmore.rf.gd/forums/)
